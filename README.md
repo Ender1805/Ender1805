@@ -5,7 +5,7 @@ I might eventually take part of an open source project or create an open source 
 
 I tend to create simple but usable programs. My goal is to master at least the basics of languages i find interesting.
 
-Here's a list of the languages i use:
+Here's a list of the languages i use or learn:
 - C#
 - Python
 - C
@@ -13,6 +13,6 @@ Here's a list of the languages i use:
 - Lua
 - HTML
 - CSS
-- Kotlin
+- Java
 
 Please only send me a message if it's related to open source projects i work on. I won't answer anything that isn't related to that.
