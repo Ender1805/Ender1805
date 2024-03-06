@@ -8,7 +8,6 @@ I tend to create simple but usable programs. My goal is to master at least the b
 Here's a list of the languages i use or learn:
 - C#
 - Python
-- C
 - Golang
 - Lua
 - HTML
