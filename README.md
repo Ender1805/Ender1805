@@ -1,8 +1,8 @@
-Hi, I’m @Ender1805. I'm an amateur programmer who uses a bunch of languages...
+Hello, I'm @Ender1805. I like to program things.
 
-I use Github here to simply host my programming projects. My personal repositories will be private, and i'll be the only one to work on them. 
-I might eventually take part of an open source project or create an open source repository in the future, but it's really not planned.
+I started programming out of curiosity and never stopped since. I mainly use C# for most projects, but I also learn C to pursue my learning.
 
-I tend to create simple but usable programs. My goal is to master at least the basics of languages i find interesting. I mainly use C# and .NET 7.
+I use GitHub to host my programming projects. These will be kept private unless I decide to make them FOSS. I mainly program simple utilities, some libraries and quite a few game prototypes.
 
-Please only send me a message if it's related to open source projects i work on. I won't answer to anything that isn't related to that.
+Please only send private messages if it's related to a project we're working on. Don't try to contact me for anything else.
+
